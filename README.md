@@ -4,5 +4,5 @@ Here you can find completed Dataquest.io project jupyter notebooks. Theres are v
 
 A list of the completed projects are as follows:
 
-- Project 1
+- Mobile App (Android vs iOS) Introductory Data Analysis
 - Employee Exit Survey Analysis
